@@ -1,0 +1,919 @@
+[
+  {
+    "flag": "🇺🇸",
+    "country": "United States",
+    "capital": "Washington D.C.",
+    "continent": "North America",
+    "options": ["United States", "Canada", "Mexico", "Brazil"]
+  },
+  {
+    "flag": "🇬🇧",
+    "country": "United Kingdom",
+    "capital": "London",
+    "continent": "Europe",
+    "options": ["United Kingdom", "France", "Germany", "Spain"]
+  },
+  {
+    "flag": "🇯🇵",
+    "country": "Japan",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "options": ["Japan", "China", "South Korea", "Thailand"]
+  },
+  {
+    "flag": "🇫🇷",
+    "country": "France",
+    "capital": "Paris",
+    "continent": "Europe",
+    "options": ["France", "Italy", "Spain", "Germany"]
+  },
+  {
+    "flag": "🇩🇪",
+    "country": "Germany",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "options": ["Germany", "Poland", "Austria", "Netherlands"]
+  },
+  {
+    "flag": "🇮🇹",
+    "country": "Italy",
+    "capital": "Rome",
+    "continent": "Europe",
+    "options": ["Italy", "Greece", "Portugal", "Turkey"]
+  },
+  {
+    "flag": "🇨🇦",
+    "country": "Canada",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "options": ["Canada", "United States", "Mexico", "Cuba"]
+  },
+  {
+    "flag": "🇦🇺",
+    "country": "Australia",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "options": ["Australia", "New Zealand", "Fiji", "Papua New Guinea"]
+  },
+  {
+    "flag": "🇧🇷",
+    "country": "Brazil",
+    "capital": "Brasília",
+    "continent": "South America",
+    "options": ["Brazil", "Argentina", "Chile", "Colombia"]
+  },
+  {
+    "flag": "🇮🇳",
+    "country": "India",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "options": ["India", "Pakistan", "Bangladesh", "Sri Lanka"]
+  },
+  {
+    "flag": "🇨🇳",
+    "country": "China",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "options": ["China", "Japan", "South Korea", "Vietnam"]
+  },
+  {
+    "flag": "🇷🇺",
+    "country": "Russia",
+    "capital": "Moscow",
+    "continent": "Europe/Asia",
+    "options": ["Russia", "Ukraine", "Belarus", "Kazakhstan"]
+  },
+  {
+    "flag": "🇪🇸",
+    "country": "Spain",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "options": ["Spain", "Portugal", "France", "Italy"]
+  },
+  {
+    "flag": "🇲🇽",
+    "country": "Mexico",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "options": ["Mexico", "United States", "Canada", "Cuba"]
+  },
+  {
+    "flag": "🇮🇩",
+    "country": "Indonesia",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "options": ["Indonesia", "Malaysia", "Philippines", "Thailand"]
+  },
+  {
+    "flag": "🇳🇱",
+    "country": "Netherlands",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "options": ["Netherlands", "Belgium", "Denmark", "Switzerland"]
+  },
+  {
+    "flag": "🇸🇦",
+    "country": "Saudi Arabia",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "options": ["Saudi Arabia", "United Arab Emirates", "Qatar", "Kuwait"]
+  },
+  {
+    "flag": "🇿🇦",
+    "country": "South Africa",
+    "capital": "Pretoria",
+    "continent": "Africa",
+    "options": ["South Africa", "Nigeria", "Kenya", "Egypt"]
+  },
+  {
+    "flag": "🇦🇷",
+    "country": "Argentina",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "options": ["Argentina", "Brazil", "Chile", "Uruguay"]
+  },
+  {
+    "flag": "🇰🇷",
+    "country": "South Korea",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "options": ["South Korea", "North Korea", "Japan", "China"]
+  },
+  {
+    "flag": "🇹🇷",
+    "country": "Turkey",
+    "capital": "Ankara",
+    "continent": "Europe/Asia",
+    "options": ["Turkey", "Greece", "Egypt", "Iran"]
+  },
+  {
+    "flag": "🇵🇱",
+    "country": "Poland",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "options": ["Poland", "Germany", "Czech Republic", "Ukraine"]
+  },
+  {
+    "flag": "🇸🇪",
+    "country": "Sweden",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "options": ["Sweden", "Norway", "Finland", "Denmark"]
+  },
+  {
+    "flag": "🇳🇴",
+    "country": "Norway",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "options": ["Norway", "Sweden", "Denmark", "Iceland"]
+  },
+  {
+    "flag": "🇩🇰",
+    "country": "Denmark",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "options": ["Denmark", "Sweden", "Norway", "Finland"]
+  },
+  {
+    "flag": "🇫🇮",
+    "country": "Finland",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "options": ["Finland", "Sweden", "Norway", "Estonia"]
+  },
+  {
+    "flag": "🇵🇹",
+    "country": "Portugal",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "options": ["Portugal", "Spain", "France", "Italy"]
+  },
+  {
+    "flag": "🇨🇭",
+    "country": "Switzerland",
+    "capital": "Bern",
+    "continent": "Europe",
+    "options": ["Switzerland", "Austria", "Germany", "France"]
+  },
+  {
+    "flag": "🇧🇪",
+    "country": "Belgium",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "options": ["Belgium", "Netherlands", "Luxembourg", "France"]
+  },
+  {
+    "flag": "🇦🇹",
+    "country": "Austria",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "options": ["Austria", "Germany", "Switzerland", "Italy"]
+  },
+  {
+    "flag": "🇮🇪",
+    "country": "Ireland",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "options": ["Ireland", "United Kingdom", "Scotland", "Wales"]
+  },
+  {
+    "flag": "🇬🇷",
+    "country": "Greece",
+    "capital": "Athens",
+    "continent": "Europe",
+    "options": ["Greece", "Italy", "Turkey", "Spain"]
+  },
+  {
+    "flag": "🇹🇭",
+    "country": "Thailand",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "options": ["Thailand", "Vietnam", "Cambodia", "Laos"]
+  },
+  {
+    "flag": "🇻🇳",
+    "country": "Vietnam",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "options": ["Vietnam", "Thailand", "Cambodia", "Laos"]
+  },
+  {
+    "flag": "🇲🇾",
+    "country": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "options": ["Malaysia", "Indonesia", "Singapore", "Thailand"]
+  },
+  {
+    "flag": "🇸🇬",
+    "country": "Singapore",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "options": ["Singapore", "Malaysia", "Indonesia", "Thailand"]
+  },
+  {
+    "flag": "🇵🇭",
+    "country": "Philippines",
+    "capital": "Manila",
+    "continent": "Asia",
+    "options": ["Philippines", "Indonesia", "Malaysia", "Vietnam"]
+  },
+  {
+    "flag": "🇳🇿",
+    "country": "New Zealand",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "options": ["New Zealand", "Australia", "Fiji", "Papua New Guinea"]
+  },
+  {
+    "flag": "🇪🇬",
+    "country": "Egypt",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "options": ["Egypt", "Morocco", "Algeria", "Tunisia"]
+  },
+  {
+    "flag": "🇳🇬",
+    "country": "Nigeria",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "options": ["Nigeria", "South Africa", "Kenya", "Ghana"]
+  },
+  {
+    "flag": "🇰🇪",
+    "country": "Kenya",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "options": ["Kenya", "Ethiopia", "Tanzania", "Uganda"]
+  },
+  {
+    "flag": "🇲🇦",
+    "country": "Morocco",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "options": ["Morocco", "Algeria", "Tunisia", "Egypt"]
+  },
+  {
+    "flag": "🇨🇱",
+    "country": "Chile",
+    "capital": "Santiago",
+    "continent": "South America",
+    "options": ["Chile", "Argentina", "Peru", "Bolivia"]
+  },
+  {
+    "flag": "🇨🇴",
+    "country": "Colombia",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "options": ["Colombia", "Venezuela", "Ecuador", "Peru"]
+  },
+  {
+    "flag": "🇵🇪",
+    "country": "Peru",
+    "capital": "Lima",
+    "continent": "South America",
+    "options": ["Peru", "Chile", "Bolivia", "Ecuador"]
+  },
+  {
+    "flag": "🇻🇪",
+    "country": "Venezuela",
+    "capital": "Caracas",
+    "continent": "South America",
+    "options": ["Venezuela", "Colombia", "Brazil", "Guyana"]
+  },
+  {
+    "flag": "🇺🇦",
+    "country": "Ukraine",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "options": ["Ukraine", "Russia", "Poland", "Belarus"]
+  },
+  {
+    "flag": "🇷🇴",
+    "country": "Romania",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "options": ["Romania", "Bulgaria", "Hungary", "Serbia"]
+  },
+  {
+    "flag": "🇨🇿",
+    "country": "Czech Republic",
+    "capital": "Prague",
+    "continent": "Europe",
+    "options": ["Czech Republic", "Slovakia", "Poland", "Austria"]
+  },
+  {
+    "flag": "🇭🇺",
+    "country": "Hungary",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "options": ["Hungary", "Austria", "Slovakia", "Romania"]
+  },
+  {
+    "flag": "🇮🇱",
+    "country": "Israel",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "options": ["Israel", "Jordan", "Lebanon", "Syria"]
+  },
+  {
+    "flag": "🇦🇪",
+    "country": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "options": ["United Arab Emirates", "Saudi Arabia", "Qatar", "Kuwait"]
+  },
+  {
+    "flag": "🇶🇦",
+    "country": "Qatar",
+    "capital": "Doha",
+    "continent": "Asia",
+    "options": ["Qatar", "United Arab Emirates", "Saudi Arabia", "Oman"]
+  },
+  {
+    "flag": "🇰🇼",
+    "country": "Kuwait",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "options": ["Kuwait", "Saudi Arabia", "United Arab Emirates", "Qatar"]
+  },
+  {
+    "flag": "🇵🇰",
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "options": ["Pakistan", "India", "Afghanistan", "Iran"]
+  },
+  {
+    "flag": "🇧🇩",
+    "country": "Bangladesh",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "options": ["Bangladesh", "India", "Pakistan", "Myanmar"]
+  },
+  {
+    "flag": "🇱🇰",
+    "country": "Sri Lanka",
+    "capital": "Colombo",
+    "continent": "Asia",
+    "options": ["Sri Lanka", "India", "Bangladesh", "Maldives"]
+  },
+  {
+    "flag": "🇳🇵",
+    "country": "Nepal",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "options": ["Nepal", "India", "Bhutan", "Bangladesh"]
+  },
+  {
+    "flag": "🇲🇲",
+    "country": "Myanmar",
+    "capital": "Naypyidaw",
+    "continent": "Asia",
+    "options": ["Myanmar", "Thailand", "Bangladesh", "Laos"]
+  },
+  {
+    "flag": "🇰🇭",
+    "country": "Cambodia",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "options": ["Cambodia", "Vietnam", "Thailand", "Laos"]
+  },
+  {
+    "flag": "🇱🇦",
+    "country": "Laos",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "options": ["Laos", "Vietnam", "Thailand", "Cambodia"]
+  },
+  {
+    "flag": "🇧🇹",
+    "country": "Bhutan",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "options": ["Bhutan", "Nepal", "India", "Bangladesh"]
+  },
+  {
+    "flag": "🇲🇻",
+    "country": "Maldives",
+    "capital": "Malé",
+    "continent": "Asia",
+    "options": ["Maldives", "Sri Lanka", "India", "Bangladesh"]
+  },
+  {
+    "flag": "🇫🇯",
+    "country": "Fiji",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "options": ["Fiji", "Papua New Guinea", "New Zealand", "Australia"]
+  },
+  {
+    "flag": "🇵🇬",
+    "country": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "options": ["Papua New Guinea", "Fiji", "New Zealand", "Australia"]
+  },
+  {
+    "flag": "🇮🇸",
+    "country": "Iceland",
+    "capital": "Reykjavik",
+    "continent": "Europe",
+    "options": ["Iceland", "Norway", "Denmark", "Finland"]
+  },
+  {
+    "flag": "🇱🇺",
+    "country": "Luxembourg",
+    "capital": "Luxembourg City",
+    "continent": "Europe",
+    "options": ["Luxembourg", "Belgium", "Netherlands", "Germany"]
+  },
+  {
+    "flag": "🇸🇰",
+    "country": "Slovakia",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "options": ["Slovakia", "Czech Republic", "Hungary", "Austria"]
+  },
+  {
+    "flag": "🇸🇮",
+    "country": "Slovenia",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "options": ["Slovenia", "Croatia", "Austria", "Hungary"]
+  },
+  {
+    "flag": "🇭🇷",
+    "country": "Croatia",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "options": ["Croatia", "Slovenia", "Bosnia", "Serbia"]
+  },
+  {
+    "flag": "🇷🇸",
+    "country": "Serbia",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "options": ["Serbia", "Croatia", "Bosnia", "Montenegro"]
+  },
+  {
+    "flag": "🇧🇬",
+    "country": "Bulgaria",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "options": ["Bulgaria", "Romania", "Greece", "Turkey"]
+  },
+  {
+    "flag": "🇪🇪",
+    "country": "Estonia",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "options": ["Estonia", "Latvia", "Lithuania", "Finland"]
+  },
+  {
+    "flag": "🇱🇻",
+    "country": "Latvia",
+    "capital": "Riga",
+    "continent": "Europe",
+    "options": ["Latvia", "Estonia", "Lithuania", "Finland"]
+  },
+  {
+    "flag": "🇱🇹",
+    "country": "Lithuania",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "options": ["Lithuania", "Latvia", "Estonia", "Poland"]
+  },
+  {
+    "flag": "🇦🇱",
+    "country": "Albania",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "options": ["Albania", "Greece", "North Macedonia", "Montenegro"]
+  },
+  {
+    "flag": "🇲🇰",
+    "country": "North Macedonia",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "options": ["North Macedonia", "Greece", "Bulgaria", "Albania"]
+  },
+  {
+    "flag": "🇲🇪",
+    "country": "Montenegro",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "options": ["Montenegro", "Serbia", "Croatia", "Bosnia"]
+  },
+  {
+    "flag": "🇧🇦",
+    "country": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "options": ["Bosnia and Herzegovina", "Croatia", "Serbia", "Montenegro"]
+  },
+  {
+    "flag": "🇲🇹",
+    "country": "Malta",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "options": ["Malta", "Cyprus", "Greece", "Italy"]
+  },
+  {
+    "flag": "🇨🇾",
+    "country": "Cyprus",
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "options": ["Cyprus", "Greece", "Turkey", "Malta"]
+  },
+  {
+    "flag": "🇯🇴",
+    "country": "Jordan",
+    "capital": "Amman",
+    "continent": "Asia",
+    "options": ["Jordan", "Israel", "Lebanon", "Syria"]
+  },
+  {
+    "flag": "🇱🇧",
+    "country": "Lebanon",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "options": ["Lebanon", "Israel", "Jordan", "Syria"]
+  },
+  {
+    "flag": "🇸🇾",
+    "country": "Syria",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "options": ["Syria", "Lebanon", "Jordan", "Iraq"]
+  },
+  {
+    "flag": "🇮🇶",
+    "country": "Iraq",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "options": ["Iraq", "Iran", "Syria", "Jordan"]
+  },
+  {
+    "flag": "🇮🇷",
+    "country": "Iran",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "options": ["Iran", "Iraq", "Turkey", "Pakistan"]
+  },
+  {
+    "flag": "🇦🇫",
+    "country": "Afghanistan",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "options": ["Afghanistan", "Pakistan", "Iran", "Tajikistan"]
+  },
+  {
+    "flag": "🇰🇿",
+    "country": "Kazakhstan",
+    "capital": "Nur-Sultan",
+    "continent": "Asia",
+    "options": ["Kazakhstan", "Uzbekistan", "Turkmenistan", "Kyrgyzstan"]
+  },
+  {
+    "flag": "🇺🇿",
+    "country": "Uzbekistan",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "options": ["Uzbekistan", "Kazakhstan", "Turkmenistan", "Tajikistan"]
+  },
+  {
+    "flag": "🇹🇯",
+    "country": "Tajikistan",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "options": ["Tajikistan", "Uzbekistan", "Kyrgyzstan", "Afghanistan"]
+  },
+  {
+    "flag": "🇰🇬",
+    "country": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "options": ["Kyrgyzstan", "Kazakhstan", "Uzbekistan", "Tajikistan"]
+  },
+  {
+    "flag": "🇹🇲",
+    "country": "Turkmenistan",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "options": ["Turkmenistan", "Uzbekistan", "Kazakhstan", "Iran"]
+  },
+  {
+    "flag": "🇴🇲",
+    "country": "Oman",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "options": ["Oman", "United Arab Emirates", "Saudi Arabia", "Yemen"]
+  },
+  {
+    "flag": "🇾🇪",
+    "country": "Yemen",
+    "capital": "Sana'a",
+    "continent": "Asia",
+    "options": ["Yemen", "Oman", "Saudi Arabia", "United Arab Emirates"]
+  },
+  {
+    "flag": "🇯🇲",
+    "country": "Jamaica",
+    "capital": "Kingston",
+    "continent": "North America",
+    "options": ["Jamaica", "Cuba", "Haiti", "Dominican Republic"]
+  },
+  {
+    "flag": "🇨🇺",
+    "country": "Cuba",
+    "capital": "Havana",
+    "continent": "North America",
+    "options": ["Cuba", "Jamaica", "Dominican Republic", "Haiti"]
+  },
+  {
+    "flag": "🇭🇹",
+    "country": "Haiti",
+    "capital": "Port-au-Prince",
+    "continent": "North America",
+    "options": ["Haiti", "Dominican Republic", "Cuba", "Jamaica"]
+  },
+  {
+    "flag": "🇩🇴",
+    "country": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "continent": "North America",
+    "options": ["Dominican Republic", "Haiti", "Cuba", "Puerto Rico"]
+  },
+  {
+    "flag": "🇵🇷",
+    "country": "Puerto Rico",
+    "capital": "San Juan",
+    "continent": "North America",
+    "options": ["Puerto Rico", "Dominican Republic", "Cuba", "Jamaica"]
+  },
+  {
+    "flag": "🇨🇷",
+    "country": "Costa Rica",
+    "capital": "San José",
+    "continent": "North America",
+    "options": ["Costa Rica", "Panama", "Nicaragua", "Honduras"]
+  },
+  {
+    "flag": "🇵🇦",
+    "country": "Panama",
+    "capital": "Panama City",
+    "continent": "North America",
+    "options": ["Panama", "Costa Rica", "Colombia", "Nicaragua"]
+  },
+  {
+    "flag": "🇬🇹",
+    "country": "Guatemala",
+    "capital": "Guatemala City",
+    "continent": "North America",
+    "options": ["Guatemala", "Honduras", "El Salvador", "Mexico"]
+  },
+  {
+    "flag": "🇭🇳",
+    "country": "Honduras",
+    "capital": "Tegucigalpa",
+    "continent": "North America",
+    "options": ["Honduras", "Guatemala", "El Salvador", "Nicaragua"]
+  },
+  {
+    "flag": "🇸🇻",
+    "country": "El Salvador",
+    "capital": "San Salvador",
+    "continent": "North America",
+    "options": ["El Salvador", "Guatemala", "Honduras", "Nicaragua"]
+  },
+  {
+    "flag": "🇳🇮",
+    "country": "Nicaragua",
+    "capital": "Managua",
+    "continent": "North America",
+    "options": ["Nicaragua", "Costa Rica", "Honduras", "Panama"]
+  },
+  {
+    "flag": "🇪🇨",
+    "country": "Ecuador",
+    "capital": "Quito",
+    "continent": "South America",
+    "options": ["Ecuador", "Colombia", "Peru", "Venezuela"]
+  },
+  {
+    "flag": "🇧🇴",
+    "country": "Bolivia",
+    "capital": "Sucre",
+    "continent": "South America",
+    "options": ["Bolivia", "Peru", "Chile", "Argentina"]
+  },
+  {
+    "flag": "🇵🇾",
+    "country": "Paraguay",
+    "capital": "Asunción",
+    "continent": "South America",
+    "options": ["Paraguay", "Uruguay", "Argentina", "Brazil"]
+  },
+  {
+    "flag": "🇺🇾",
+    "country": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "options": ["Uruguay", "Argentina", "Paraguay", "Brazil"]
+  },
+  {
+    "flag": "🇬🇾",
+    "country": "Guyana",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "options": ["Guyana", "Suriname", "Venezuela", "Brazil"]
+  },
+  {
+    "flag": "🇸🇷",
+    "country": "Suriname",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "options": ["Suriname", "Guyana", "French Guiana", "Brazil"]
+  },
+  {
+    "flag": "🇹🇹",
+    "country": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "continent": "North America",
+    "options": ["Trinidad and Tobago", "Jamaica", "Barbados", "Grenada"]
+  },
+  {
+    "flag": "🇧🇧",
+    "country": "Barbados",
+    "capital": "Bridgetown",
+    "continent": "North America",
+    "options": ["Barbados", "Trinidad and Tobago", "Jamaica", "Bahamas"]
+  },
+  {
+    "flag": "🇧🇸",
+    "country": "Bahamas",
+    "capital": "Nassau",
+    "continent": "North America",
+    "options": ["Bahamas", "Jamaica", "Barbados", "Cuba"]
+  },
+  {
+    "flag": "🇩🇿",
+    "country": "Algeria",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "options": ["Algeria", "Morocco", "Tunisia", "Libya"]
+  },
+  {
+    "flag": "🇹🇳",
+    "country": "Tunisia",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "options": ["Tunisia", "Algeria", "Morocco", "Libya"]
+  },
+  {
+    "flag": "🇱🇾",
+    "country": "Libya",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "options": ["Libya", "Egypt", "Tunisia", "Algeria"]
+  },
+  {
+    "flag": "🇸🇩",
+    "country": "Sudan",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "options": ["Sudan", "Egypt", "Ethiopia", "South Sudan"]
+  },
+  {
+    "flag": "🇪🇹",
+    "country": "Ethiopia",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "options": ["Ethiopia", "Kenya", "Sudan", "Somalia"]
+  },
+  {
+    "flag": "🇸🇴",
+    "country": "Somalia",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "options": ["Somalia", "Ethiopia", "Kenya", "Yemen"]
+  },
+  {
+    "flag": "🇺🇬",
+    "country": "Uganda",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "options": ["Uganda", "Kenya", "Tanzania", "Rwanda"]
+  },
+  {
+    "flag": "🇷🇼",
+    "country": "Rwanda",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "options": ["Rwanda", "Uganda", "Burundi", "Tanzania"]
+  },
+  {
+    "flag": "🇧🇮",
+    "country": "Burundi",
+    "capital": "Gitega",
+    "continent": "Africa",
+    "options": ["Burundi", "Rwanda", "Tanzania", "Uganda"]
+  },
+  {
+    "flag": "🇹🇿",
+    "country": "Tanzania",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "options": ["Tanzania", "Kenya", "Uganda", "Mozambique"]
+  },
+  {
+    "flag": "🇲🇿",
+    "country": "Mozambique",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "options": ["Mozambique", "Tanzania", "Zimbabwe", "South Africa"]
+  },
+  {
+    "flag": "🇿🇲",
+    "country": "Zambia",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "options": ["Zambia", "Zimbabwe", "Tanzania", "Malawi"]
+  },
+  {
+    "flag": "🇿🇼",
+    "country": "Zimbabwe",
+    "capital": "Harare",
+    "continent": "Africa",
+    "options": ["Zimbabwe", "Zambia", "Mozambique", "Botswana"]
+  },
+  {
+    "flag": "🇧🇼",
+    "country": "Botswana",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "options": ["Botswana", "South Africa", "Namibia", "Zimbabwe"]
+  },
+  {
+    "flag": "🇳🇦",
+    "country": "Namibia",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "options": ["Namibia", "South Africa", "Botswana", "Angola"]
+  },
+  {
+    "flag": "🇦🇴",
+    "country": "Angola",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "options": ["Angola", "Namibia", "Zambia", "Democratic Republic of the Congo"]
+  },
+  {
+    "flag": "🇨🇩",
+    "country": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "options": ["Democratic Republic of the Congo", "Republic of the Congo", "Angola", "Uganda"]
+  }
+]
